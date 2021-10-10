@@ -1,5 +1,4 @@
 # Clock-and-Media-Player-Rmskin
-Minimal Clock and Media player for Rainmeter now with version 2.0
 
 Minimal Clock with hour and minute both with prefix zero at different levels for desktop customisation via Rainmeter
 
